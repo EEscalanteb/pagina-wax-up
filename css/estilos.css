@@ -1,0 +1,11 @@
+.jumbotron{
+	background-image: url(../img/pexels-andrea-piacquadio-3775534.jpg);
+	background-size: cover;
+	margin:0;
+}
+.colortitulos{
+	color: white;
+}
+.Contacto{
+	background-color: #1E2460;
+}
